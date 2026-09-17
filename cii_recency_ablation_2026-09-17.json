@@ -1,0 +1,217 @@
+{
+  "median_recency_boost": 0.3576,
+  "mean_recency_boost": 0.4418,
+  "original_top8": [
+    "EP_DARK",
+    "GORG_FERH",
+    "LZ230616",
+    "HARD_PROBLEM",
+    "NEUTRINO_FOG",
+    "DESIGNER_CELL",
+    "HYBRID_MAGNETO",
+    "IMIC"
+  ],
+  "median_top8": [
+    "EP_DARK",
+    "GORG_FERH",
+    "NEUTRINO_FOG",
+    "HYBRID_MAGNETO",
+    "LZ230616",
+    "IMIC",
+    "HARD_PROBLEM",
+    "DESIGNER_CELL"
+  ],
+  "zero_top8": [
+    "EP_DARK",
+    "GORG_FERH",
+    "NEUTRINO_FOG",
+    "HYBRID_MAGNETO",
+    "LZ230616",
+    "IMIC",
+    "HARD_PROBLEM",
+    "DESIGNER_CELL"
+  ],
+  "stability_top5_vs_median": {
+    "overlap": [
+      "EP_DARK",
+      "GORG_FERH",
+      "LZ230616",
+      "NEUTRINO_FOG"
+    ],
+    "dropped": [
+      "HARD_PROBLEM"
+    ],
+    "entered": [
+      "HYBRID_MAGNETO"
+    ],
+    "jaccard": 0.667
+  },
+  "stability_top5_vs_zero": {
+    "overlap": [
+      "EP_DARK",
+      "GORG_FERH",
+      "LZ230616",
+      "NEUTRINO_FOG"
+    ],
+    "dropped": [
+      "HARD_PROBLEM"
+    ],
+    "entered": [
+      "HYBRID_MAGNETO"
+    ],
+    "jaccard": 0.667
+  },
+  "survivors_top5_original_and_zero": [
+    "EP_DARK",
+    "GORG_FERH",
+    "LZ230616",
+    "NEUTRINO_FOG"
+  ],
+  "zero_ranked": [
+    {
+      "rank": 1,
+      "id": "EP_DARK",
+      "cii": 0.735,
+      "realm": "outer_space",
+      "name": "Dark-sector Equivalence Principle violation (\u03b2 ~ 0.5%)",
+      "evidential_status": "new_signal"
+    },
+    {
+      "rank": 2,
+      "id": "GORG_FERH",
+      "cii": 0.6715,
+      "realm": "ocean",
+      "name": "Aphotic Pelagibacterales FeRh may sense bioluminescence",
+      "evidential_status": "new_signal"
+    },
+    {
+      "rank": 3,
+      "id": "NEUTRINO_FOG",
+      "cii": 0.6685,
+      "realm": "outer_space",
+      "name": "WIMP search entered confirmed neutrino fog",
+      "evidential_status": "established_unknown"
+    },
+    {
+      "rank": 4,
+      "id": "HYBRID_MAGNETO",
+      "cii": 0.6545,
+      "realm": "animals",
+      "name": "Hybrid radical-pair + magnetite compass (up to 100\u00d7)",
+      "evidential_status": "new_signal"
+    },
+    {
+      "rank": 5,
+      "id": "LZ230616",
+      "cii": 0.644,
+      "realm": "outer_space",
+      "name": "LZ230616 high-energy nuclear recoil vs inelastic DM",
+      "evidential_status": "new_signal"
+    },
+    {
+      "rank": 6,
+      "id": "IMIC",
+      "cii": 0.6405,
+      "realm": "earth_interior",
+      "name": "Innermost inner core (300\u2013750 km) composition & onion layering",
+      "evidential_status": "established_unknown"
+    },
+    {
+      "rank": 7,
+      "id": "HARD_PROBLEM",
+      "cii": 0.618,
+      "realm": "humans",
+      "name": "Hard problem of consciousness \u2014 Cogitate draw; \u03a6 uncomputed",
+      "evidential_status": "established_unknown"
+    },
+    {
+      "rank": 8,
+      "id": "DESIGNER_CELL",
+      "cii": 0.55,
+      "realm": "life",
+      "name": "De novo designer cell with ~482-gene genome \u2014 unsolved",
+      "evidential_status": "established_unknown"
+    },
+    {
+      "rank": 9,
+      "id": "DARK_OXYGEN",
+      "cii": 0.5375,
+      "realm": "ocean",
+      "name": "Abyssal 'dark oxygen' \u2014 unreplicated, under editor's note",
+      "evidential_status": "disputed_claim"
+    },
+    {
+      "rank": 10,
+      "id": "DESI_DDE",
+      "cii": 0.495,
+      "realm": "outer_space",
+      "name": "Dynamical dark energy / quintom crossing",
+      "evidential_status": "new_signal"
+    },
+    {
+      "rank": 11,
+      "id": "BARYOGENESIS",
+      "cii": 0.4875,
+      "realm": "outer_space",
+      "name": "Matter\u2013antimatter: LHCb baryon CP violation too small",
+      "evidential_status": "established_unknown"
+    },
+    {
+      "rank": 12,
+      "id": "GREAT_UNCONF",
+      "cii": 0.4775,
+      "realm": "land",
+      "name": "Great Unconformity driver still multi-causal",
+      "evidential_status": "established_unknown"
+    },
+    {
+      "rank": 13,
+      "id": "DEEP_CORE_MICRO",
+      "cii": 0.4725,
+      "realm": "land",
+      "name": "Global deep terrestrial core microbiome \u2014 4 taxa, function thin",
+      "evidential_status": "established_unknown"
+    },
+    {
+      "rank": 14,
+      "id": "BLOOD_DARK_DNA",
+      "cii": 0.4625,
+      "realm": "humans",
+      "name": "Human blood: >3,000 unidentified DNA sequences",
+      "evidential_status": "established_unknown"
+    },
+    {
+      "rank": 15,
+      "id": "NO_POPIII",
+      "cii": 0.4375,
+      "realm": "outer_space",
+      "name": "No confirmed Population III stars (mid-2026)",
+      "evidential_status": "established_unknown"
+    },
+    {
+      "rank": 16,
+      "id": "MAGNETOFOSSIL",
+      "cii": 0.4275,
+      "realm": "animals",
+      "name": "97 Ma magnetofossils \u2014 organism unknown",
+      "evidential_status": "established_unknown"
+    },
+    {
+      "rank": 17,
+      "id": "ABIOGENESIS",
+      "cii": 0.4225,
+      "realm": "life",
+      "name": "Abiogenesis pathway \u2014 CoLD scale still Level 1 on Mars",
+      "evidential_status": "established_unknown"
+    },
+    {
+      "rank": 18,
+      "id": "DEEP_GENE_FN",
+      "cii": 0.42,
+      "realm": "ocean",
+      "name": "Deep-sea gene function annotation lag",
+      "evidential_status": "established_unknown"
+    }
+  ],
+  "interpretation": "Gaps that remain top-ranked after setting recency_boost=0 are not recency theater. Those that fall out were inflated by being days old."
+}
